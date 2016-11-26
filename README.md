@@ -1,2 +1,2 @@
 # local.conf
-devstack config file
+devstack config file and netwtork interface with vbridge config
